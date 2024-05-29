@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="footer bg-warning p-4 mt-4">
-        <a href="admin/index.php" class="text-dark"><strong>Admin Panel</strong></a>
+        <a href="admin/index.php" class="text-dark"><strong>Panel Blog</strong></a>
     </div>
 </body>
 </html>
